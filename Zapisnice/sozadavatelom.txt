@@ -1,0 +1,36 @@
+29.09.2016
+Prítmomní: Foltýn,Hlatky,Vakerman,Kunovská
+
+1. rozhodca by nemal ist cez registraciu, ale ho registruje
+  (vytvara) admin
+2. ak je stranka kratka, cele menu nevojde do iframe
+3. ak nie su ziadne zverejnene zadania na riesenie, stranka
+   s prehladom zadani nevyzera dobre
+4. preview vytvaraneho zadania funguje pochybne
+    (aj sa zduplikovali linky na youtube video)
+5. (expirovane zadania nemozem uz editovat)
+6. v zozname timov oznacit tie, ktore sa nikdy nezucastnili
+7. (umoznit timom pri odovzdavani rieseni wysiwyg)
+   ak nie, tak potom aspon tlacidla na oznacenie nadpisov casti a formatovania
+8. mat pripravenu moznost na permanentnom linku otvorit konkretne
+    zadanie alebo riesenie aj v celej stranke FLL
+   (co teraz nejde) -> potrebuje dohodu s novou verziou
+   stranok FLL
+9. zobraz zadanie namiesto zobraz riesenie
+10. (zoznam timov ktore uz odovzdali riesenie pred deadline,
+     ale neda sa otvorit)
+11. URL riesenia sa da uhadnut a potom sa da zobrazit
+     pred deadline
+12. rozhodca moze ohodnotit riesenia oboh ciastkovych uloh
+     bodmi 0-3 alebo nechat hodnotu "neriesil"
+    vzdy zada komentar
+    okienko na komentar je neprakticke
+13. admin moze nastavit, ktori rozhodcovia su aktivni v tomto
+    kole / rocniku
+14. adminovi sa zobrazi nespravne zratany priemer (myslim si)
+15. admin ked spaja hodnotenia rozhodcov, tak ma velmi
+    neprakticke okienko
+16. admin ma tlacidlo "zverejnit hodnotenia" a az potom
+    sa hodnotenia zverejnuju
+17. admin aj rozhodca maju nepohodlny prechod na hodnotenie
+    resp. spajanie hodnoteni nasledujuceho timu
