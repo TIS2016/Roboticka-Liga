@@ -1,0 +1,38 @@
+7.10.2016
+Prítomní: Foltın,Hlatky,Vakerman,Kunovská
+Zhrnutie:
+Evka spravila z ganttovho diagramu èas návrh a má nastarosti manamet externej a internej komunikácie. Viliam spravil èas implementácie a má nastarosti dokumentáciu. Jonatan spravil s ganttovho diagramu špecifikáciu, a ma nastarosti manament práce. Peter urobil štvrtú èas ganttovho diagramu a ma nastarosti implementáciu.
+
+- Treba vyexportova ganttov diagram a da na github
+- Napísa zadávate¾ovi aby vytvoril vetvu na serveri.	
+
+Z cvièiacim sme dohodli detaily špecifikácie:
+
+1.1 kapitola úvodná, na èo je urèenı pre koho èo v òom je.
+
+1.2  2-3 vety rozsah èo do toho patrí a nepatrí.
+
+1.3 Skratky pojmy
+ -roèník, kolo zadanie pouívate¾, súanı tím.
+ -napr Tim ma názov kt sa nemení, svoje údaje sa zadávajú len raz.
+ -(fotka tímu, vyzva ak nemajú)
+
+1.5 Prehlaï dokumentu
+
+2. popísa ¾udskım jazykom aby ho pochopil aj laik.
+ -perspektíva preh¾ad funkcii
+
+3. Všetky poiadavky  kadá 2-3 vetami
+ - èlenene do skupín
+ - hodnotenie
+ - poiadavky
+
+Malo by to by nezávisle od kódu.. Zadávate¾ chce funkcie
+
+Budúci tıdeò
+	entitno-relaèny diagram (rozhodcovia sú entiti zadanie aj hodnotenie)
+	stavovı diagram (ivotnı cyklus ako prebieha, pasívny)
+	use case
+- Zadávate¾om schválene zmeny napr. zmeny v databáze aké moduly sa budú robi, èo sa mení.
+	aké technológie sa bude meni.
+
