@@ -1,5 +1,5 @@
 29.09.2016
-Prítmomní: Foltın,Hlatky,Vakerman,Kunovská
+PrÃ­tmomnÃ­: FoltÃ½n,Hlatky,Vakerman,KunovskÃ¡
 
 1. rozhodca by nemal ist cez registraciu, ale ho registruje
   (vytvara) admin
