@@ -1,0 +1,12 @@
+2. Všeobecnı popis
+
+2.1 Projekt umoòuje prihlásenie tímov do robotickej ligy. V urèitıch intervaloch dostávajú zadania,
+    ktoré riešia. Po vypršaní èasu prideleného na danú úlohu hodnotia kadé odovzdané riešenie 
+    rozhodcovia bodmi. Po skonèení celej ligy je vytvorená tabu¾ka s bodmi za kadú úlohu pre kadı tım. 
+    Tabu¾ky sú dve, jedna je vıhradne slovenská liga, druhá je open liga, v ktorej súaia aj zahranièné tímy.
+
+2.2 Systém by mal umoni prihlásenie tímom do ligy. Rozhodcom vytvára zadania, ktoré musí schváli admin.
+    Poèas doby urèenej pre vybrané zadanie môu odovzda riešenie na stránku s linkom na youtube, 
+    popisom riešenia a poprípade fotiek robota. Kadé takéto riešenie ma nastavenı deadline, ktorı keï uplynie, 
+    práce hodnotia rozhodcovia a pride¾ujú tímom body a komentáre, ktoré sa zobrazia a keï ich potvrdí admin. 
+    Takisto po vypršaní èasu sa zobrazia odovzdané riešenia, ktoré si môu všetky tímy prezera.
