@@ -1,12 +1,5 @@
-2. Všeobecnı popis
+2. VÅ¡eobecnÃ½ popis
 
-2.1 Projekt umoòuje prihlásenie tímov do robotickej ligy. V urèitıch intervaloch dostávajú zadania,
-    ktoré riešia. Po vypršaní èasu prideleného na danú úlohu hodnotia kadé odovzdané riešenie 
-    rozhodcovia bodmi. Po skonèení celej ligy je vytvorená tabu¾ka s bodmi za kadú úlohu pre kadı tım. 
-    Tabu¾ky sú dve, jedna je vıhradne slovenská liga, druhá je open liga, v ktorej súaia aj zahranièné tímy.
+2.1 Projekt umoÅ¾Åˆuje prihlÃ¡senie tÃ­mov do robotickej ligy. V urÄitÃ½ch intervaloch dostÃ¡vajÃº zadania, ktorÃ© rieÅ¡ia. Po vyprÅ¡anÃ­ Äasu           pridelenÃ©ho na danÃº Ãºlohu hodnotia kaÅ¾dÃ© odovzdanÃ© rieÅ¡enie rozhodcovia bodmi. Po skonÄenÃ­ celej ligy je vytvorenÃ¡ tabuÄ¾ka s bodmi za     kaÅ¾dÃº Ãºlohu pre kaÅ¾dÃ½ tÃ½m. TabuÄ¾ky sÃº dve, jedna je vÃ½hradne slovenskÃ¡ liga, druhÃ¡ je open liga, v ktorej sÃºÅ¥aÅ¾ia aj zahraniÄnÃ© tÃ­my.
 
-2.2 Systém by mal umoni prihlásenie tímom do ligy. Rozhodcom vytvára zadania, ktoré musí schváli admin.
-    Poèas doby urèenej pre vybrané zadanie môu odovzda riešenie na stránku s linkom na youtube, 
-    popisom riešenia a poprípade fotiek robota. Kadé takéto riešenie ma nastavenı deadline, ktorı keï uplynie, 
-    práce hodnotia rozhodcovia a pride¾ujú tímom body a komentáre, ktoré sa zobrazia a keï ich potvrdí admin. 
-    Takisto po vypršaní èasu sa zobrazia odovzdané riešenia, ktoré si môu všetky tímy prezera.
+2.2 SystÃ©m by nemal povoliÅ¥ aby sa rozhodcovia registrovali ale aby ich vytvÃ¡ral admin. Nemal by vznikaÅ¥ problÃ©m keÄ sa celÃ© menu nezmestÃ­     do iframe. ExpirovanÃ© zadanie bude maÅ¥ moÅ¾nosÅ¥ editovania. V zozname tÃ­mov pribudne moÅ¾nosÅ¥ oznaÄiÅ¥ tÃ­my, ako neaktÃ­vne. Pri               odovzdÃ¡vanÃ­ rieÅ¡enÃ­ tÃ­my majÃº moÅ¾nosÅ¥ formÃ¡tovania obsahu, ktorÃ½ pridÃ¡vajÃº. URL rieÅ¡enÃ­ pred deadlinom budÃº neprÃ­stupne. Rozhodca bude     mÃ´cÅ¥ hodnotiÅ¥ obe rieÅ¡enia alebo zadÃ¡ moÅ¾nosÅ¥ â€nerieÅ¡ilâ€œ. Admin mÃ´Å¾e zvoliÅ¥ aktÃ­vnych rozhodcov na danÃ½ rok. VizuÃ¡lnym updatom prejde     podstrÃ¡nka zadanÃ­ keÄ nie sÃº Å¾iadne novÃ© pridanÃ©, okno pri spÃ¡janÃ­ hodnotenÃ­ rozhodcov, okno pre komentÃ¡r od rozhodcu pri hodnotenÃ­ a     priebeh hodnotenia vÅ¡etkÃ½ch tÃ­mov.
