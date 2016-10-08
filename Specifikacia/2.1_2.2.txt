@@ -10,3 +10,4 @@ riešení tímy majú možnosť formátovania obsahu, ktorý pridávajú. URL ri
 hodnotiť obe riešenia alebo zadá možnosť „neriešil“. Admin môže zvoliť aktívnych rozhodcov na daný rok. Vizuálnym updatom prejde
 podstránka zadaní keď nie sú žiadne nové pridané, okno pri spájaní hodnotení rozhodcov, okno pre komentár od rozhodcu pri hodnotení a
 priebeh hodnotenia všetkých tímov.
+
