@@ -1,5 +1,12 @@
 2. Všeobecný popis
 
-2.1 Projekt umožňuje prihlásenie tímov do robotickej ligy. V určitých intervaloch dostávajú zadania, ktoré riešia. Po vypršaní času           prideleného na danú úlohu hodnotia každé odovzdané riešenie rozhodcovia bodmi. Po skončení celej ligy je vytvorená tabuľka s bodmi za     každú úlohu pre každý tým. Tabuľky sú dve, jedna je výhradne slovenská liga, druhá je open liga, v ktorej súťažia aj zahraničné tímy.
+2.1 Projekt umožňuje prihlásenie tímov do robotickej ligy. V určitých intervaloch dostávajú zadania, ktoré riešia. Po vypršaní času
+prideleného na danú úlohu hodnotia každé odovzdané riešenie rozhodcovia bodmi. Po skončení celej ligy je vytvorená tabuľka s bodmi za
+každú úlohu pre každý tým. Tabuľky sú dve, jedna je výhradne slovenská liga, druhá je open liga, v ktorej súťažia aj zahraničné tímy.
 
-2.2 Systém by nemal povoliť aby sa rozhodcovia registrovali ale aby ich vytváral admin. Nemal by vznikať problém keď sa celé menu nezmestí     do iframe. Expirované zadanie bude mať možnosť editovania. V zozname tímov pribudne možnosť označiť tímy, ako neaktívne. Pri               odovzdávaní riešení tímy majú možnosť formátovania obsahu, ktorý pridávajú. URL riešení pred deadlinom budú neprístupne. Rozhodca bude     môcť hodnotiť obe riešenia alebo zadá možnosť „neriešil“. Admin môže zvoliť aktívnych rozhodcov na daný rok. Vizuálnym updatom prejde     podstránka zadaní keď nie sú žiadne nové pridané, okno pri spájaní hodnotení rozhodcov, okno pre komentár od rozhodcu pri hodnotení a     priebeh hodnotenia všetkých tímov.
+2.2 Systém by nemal povoliť aby sa rozhodcovia registrovali ale aby ich vytváral admin. Nemal by vznikať problém keď sa celé menu nezmestí
+do iframe. Expirované zadanie bude mať možnosť editovania. V zozname tímov pribudne možnosť označiť tímy, ako neaktívne. Pri odovzdávaní
+riešení tímy majú možnosť formátovania obsahu, ktorý pridávajú. URL riešení pred deadlinom budú neprístupne. Rozhodca bude     môcť 
+hodnotiť obe riešenia alebo zadá možnosť „neriešil“. Admin môže zvoliť aktívnych rozhodcov na daný rok. Vizuálnym updatom prejde
+podstránka zadaní keď nie sú žiadne nové pridané, okno pri spájaní hodnotení rozhodcov, okno pre komentár od rozhodcu pri hodnotení a
+priebeh hodnotenia všetkých tímov.
