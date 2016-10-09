@@ -1,7 +1,9 @@
 7.10.2016
 Prítomní: Foltýn,Hlatky,Vakerman,Kunovská
 Zhrnutie:
-Evka spravila z ganttovho diagramu časť návrh a má nastarosti manažmet externej a internej komunikácie. Viliam spravil časť implementácie a má nastarosti dokumentáciu. Jonatan spravil s ganttovho diagramu špecifikáciu, a ma nastarosti manažment práce. Peter urobil štvrtú časť ganttovho diagramu a ma nastarosti implementáciu.
+Evka spravila z ganttovho diagramu časť návrh a má nastarosti manažmet externej a internej komunikácie. Viliam spravil časť
+implementácie a má nastarosti dokumentáciu. Jonatan spravil s ganttovho diagramu špecifikáciu, a ma nastarosti manažment práce. Peter
+urobil štvrtú časť ganttovho diagramu a ma nastarosti implementáciu.
 
 - Treba vyexportovať ganttov diagram a dať na github
 - Napísať zadávateľovi aby vytvoril vetvu na serveri.	
