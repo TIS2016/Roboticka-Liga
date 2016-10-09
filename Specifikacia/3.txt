@@ -36,8 +36,12 @@
 	Odovzdané riešenia sa nedajú otvoriť pred deadlinom. (10)
 	
 	3.2.3 Rekonštruckia databázy
-	Pri pridávaní prvkov do databázy bude dôraz kladený na zachovanie logických vzťahov medzi prvkami databázy. Údaje z pôvodnej databázy ostanú zachované.
+	Pri pridávaní prvkov do databázy bude dôraz kladený na zachovanie logických vzťahov medzi prvkami databázy. Údaje z pôvodnej 		databázy ostanú zachované.
 	
 	3.2.4 Zadanie a riešenie v nadranemon okne
 	Pri zadaniach a riešeniach bude možnosť ich otvoriť v nadradenom okne. (8)
+	
+	3.2.5 Oprava náhľadu pre vytvárané zadanie
+	Pri návrate z náhľadu sa v pôvodnom systéme zduplikujú odoslané údaje. Nežiadané duplikovanie bude odstránené. (4)
+
 	
