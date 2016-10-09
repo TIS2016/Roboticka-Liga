@@ -32,7 +32,7 @@
 	3.2.2 Neaktívne tímy 
 	Tímy ktoré ani raz nepošlú riešenie budú ozančené ako neaktívne. (6)
 	
-	3.2.2 Riešnia odovzdané pred deadlinom
+	3.2.2 Riešenia odovzdané pred deadlinom
 	Odovzdané riešenia sa nedajú otvoriť pred deadlinom. (10)
 	
 	3.2.3 Rekonštruckia databázy
