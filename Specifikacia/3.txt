@@ -15,5 +15,5 @@
 
 	3.2 Rozhodca
 	
-	3.2.1  Úprava užívateľského rozhrania pre administrátora
+	3.2.1  Úprava užívateľského rozhrania pre rozhodcu
 	Nový vizuál pri hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú sa dať hodnotiť obe riešenia.
