@@ -1,0 +1,41 @@
+1.1
+Hlavnou úlohou tohto dokumentu je špecifikácia systému Robotická liga, v rámci predmetu Tvorba informačných systémov. 
+Cieľom dokumentu je zrozumiteľná a vecná špecifikácia systému ako takého. Dokument vysvetľuje špecifické operácie, 
+vďaka ktorým sa má zlepšiť funkcionalita systému a navrhuje konkrétne kroky, ktoré budú viesť k oprave chýb. 
+Dokument a skladá z dvoch hlavných častí. Stať 2.0 ponúka celkový opis systému, jeho funkcie, triedy používateľov, 
+všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti systému.  Druhá časť vysvetľuje čitateľovi 
+špecifikácie požiadaviek z hľadiska funkčnosti a ostatných požiadaviek, kam patria úvodná stránka či registračné formuláre.
+
+1.2 Rozsah systému.
+
+- Editovanie zadania súťaží
+- Odovzdávať riešenia
+- Hodnotiť a komentovať odovzdané zadania
+- Systém bude kompatibilne zobrazovaný pre webové prehliadače podľa štandardov.
+- Ošetrenie vstupných dát a zabezpečenie bezpečnosti prístupov.
+- Možnosť dodatočného upravovania obsahu webu.
+
+1.3 Slovník pojmov.
+
+	Responzivita - Web sa bude zobrazovať kompatibilne na všetkýchzariadeniach.
+	Iframe - Je element na vloženie obsahu z iného webu alebo iného HTML dokumentu.
+	Administrátor - Osoba ktorá môže zasahovať do webu a databázy, upravovať aspravovať ich obsah.
+
+1.4 Externé dokumenty
+
+	Informačný systém na spravovanie súťaže  http://www.fll.sk/fll2015/ll
+	Pôvodný katalóg požiadaviek  http://tinyurl.com/zdx7cgp
+	Použité technológie:
+	PHP manuál http://php.net/manual/en/
+	MySQL manuál http://dev.mysql.com/doc/refman/5.7/en/
+	JavaScript manuál http://www.w3schools.com/js/
+
+1.5 Prehľad dokumentu špecifikácie:
+Kapitola 2: Obsahuje všeobecný popis.
+       Podkapitola 2.1: Popisuje stručný prehľad webu.
+       Podkapitola 2.2: Popisuje funkcie webu.
+       Podkapitola 2.3: Popisuje užívateľské charakteristiky.
+       Podkapitola 2.4: Popisuje všeobecné obmedzenia.
+       Podkapitola 2.5: Popisuje predpoklady a závislosti.
+Kapitola 3: Obsahuje stručne spísané požiadavky zadávateľa. 
+Kapitola 4: Obsahuje prílohy.
