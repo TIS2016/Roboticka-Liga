@@ -1,13 +1,25 @@
 2. Všeobecný popis
 
-2.1 Projekt umožňuje prihlásenie tímov do robotickej ligy. V určitých intervaloch dostávajú zadania, ktoré riešia. Po vypršaní času
-prideleného na danú úlohu hodnotia každé odovzdané riešenie rozhodcovia bodmi. Po skončení celej ligy je vytvorená tabuľka s bodmi za
-každú úlohu pre každý tým. Tabuľky sú dve, jedna je výhradne slovenská liga, druhá je open liga, v ktorej súťažia aj zahraničné tímy.
+2.1 Jednou z hlavných úloh projektu je umožnenie prihlásenia sa do robotickej ligy. Tímy dostávajú v určitých intervaloch zadania, ktoré
+musia následne vyriešiť. Po vypršaní času prideleného na danú úlohu hodnotia každé odovzdané riešenie rozhodcovia bodmi. Po skončení celej
+ligy je vytvorená tabuľka, ktorá obsahuje bodové ohodnotenie tímu pre každú špecifickú úlohu. Záverečné zhrnutie tak obsahuje dve tabuľky
+a to pre výhradne slovenskú ligu a pre open liga, v ktorej súťažia aj zahraničné tímy.
 
-2.2 Systém by nemal povoliť aby sa rozhodcovia registrovali ale aby ich vytváral admin. Nemal by vznikať problém keď sa celé menu nezmestí
-do iframe. Expirované zadanie bude mať možnosť editovania. V zozname tímov pribudne možnosť označiť tímy, ako neaktívne. Pri odovzdávaní
-riešení tímy majú možnosť formátovania obsahu, ktorý pridávajú. URL riešení pred deadlinom budú neprístupne. Rozhodca bude     môcť 
-hodnotiť obe riešenia alebo zadá možnosť „neriešil“. Admin môže zvoliť aktívnych rozhodcov na daný rok. Vizuálnym updatom prejde
-podstránka zadaní keď nie sú žiadne nové pridané, okno pri spájaní hodnotení rozhodcov, okno pre komentár od rozhodcu pri hodnotení a
-priebeh hodnotenia všetkých tímov.
+2.2 Úlohou tejto state je opísať funkcionalitu systému. Čo sa týka rozhodcov, systém by nemal povoliť ich priamu registráciu. Tento krok
+by mal byť vytváraný a kontrolovaný adminom. Originálny systém, ktorý je momentálne využívaný povoľuje participantom registrovať sa ako
+rozhodca alebo ako tím. Zmena systému tak uľahčí prácu organizátorov a zbaví ich zbytočných a neplatných registrácii. Admin tak môže
+zvoliť aktívnych rozhodcov na daný rok. Okrem registrácie, projekt počíta aj so zmenou v rámci spôsobu hodnotenia riešení. Hodnotenia sa
+rozdeľujú na primárne a sekundárne. Rozhodca bude môcť hodnotiť obe riešenia. V prípade, ak tím úlohu nevyriešil, zadá možnosť "neriešil".
+Úlohou projektu je pozmeniť aj vizuálnu stránku systému. Hlavný fokus sa tak dáva na podstránku zadaní. V prípade, ak nie sú žiadne nové
+zadania pridané, nastane situácia, že na stránke sa žiadne nové informácie nenachádzajú a pre účastníka nie je jasný ďalší postup. Našou
+úlohou teda je, pripraviť podstránku zadaní tak, aby bolo zrejmé, v akom štádiu sa zadania v rámci ligy momentálne nachádzajú. Taktiež sa
+zmení okno pre Admina, kde vidí všetky hodnotenia rozhodcov pre daný riešenie tímu a následne ich spojí. Rozhodca má k dispozícii okno pre
+komentovanie pri hodnotení ktoré bude taktiež pozmenené. 
+Ďalším problémom, ktorý sa v systéme objavil, je situácia, kedy výsuvné menu stránky má väčšiu výšku ako je samotná výška iframe a tým
+pádom nie je vidieť celé menu stránky. Našim cieľom je tak sprístupniť celé menu stránky a urobiť ho viditeľným. 
+
+Plánované zmeny sa týkajú aj samotných tímov. Admin bude mať možnosť označiť neaktívne tímy. Expirácia tímov sa však udeje aj automaticky,
+po dlhšej dobe nečinnosti daného tímu. Každý tím tiež dostane možnosť formátovania obsahu, ktorý účastníci pridajú do systému ako riešenie
+zadania. Na stránke riešení tímov bude zneprístupnený vstup pre iných participantov ligy až do konca deadlinu.
+
 
