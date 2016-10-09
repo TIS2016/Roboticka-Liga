@@ -1,2 +1,7 @@
 1.1
-Hlavnou úlohou tohto dokumentu je špecifikácia systému Robotická liga, v rámci predmetu Tvorba informačných systémov. Cieľom dokumentu je zrozumiteľná a vecná špecifikácia systému ako takého. Dokument vysvetľuje špecifické operácie, vďaka ktorým sa má zlepšiť funkcionalita systému a navrhuje konkrétne kroky, ktoré budú viesť k oprave chýb. Dokument a skladá z dvoch hlavných častí. Stať 2.0 ponúka celkový opis systému, jeho funkcie, triedy používateľov, všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti systému.  Druhá časť vysvetľuje čitateľovi špecifikácie požiadaviek z hľadiska funkčnosti a ostatných požiadaviek, kam patria úvodná stránka či registračné formuláre.
+Hlavnou úlohou tohto dokumentu je špecifikácia systému Robotická liga, v rámci predmetu Tvorba informačných systémov. 
+Cieľom dokumentu je zrozumiteľná a vecná špecifikácia systému ako takého. Dokument vysvetľuje špecifické operácie, 
+vďaka ktorým sa má zlepšiť funkcionalita systému a navrhuje konkrétne kroky, ktoré budú viesť k oprave chýb. 
+Dokument a skladá z dvoch hlavných častí. Stať 2.0 ponúka celkový opis systému, jeho funkcie, triedy používateľov, 
+všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti systému.  Druhá časť vysvetľuje čitateľovi 
+špecifikácie požiadaviek z hľadiska funkčnosti a ostatných požiadaviek, kam patria úvodná stránka či registračné formuláre.
