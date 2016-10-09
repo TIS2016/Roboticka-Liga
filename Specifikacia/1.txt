@@ -19,7 +19,7 @@ všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti syst�
 
 	Responzivita - Web sa bude zobrazovať kompatibilne na všetkýchzariadeniach.
 	Iframe - Je element na vloženie obsahu z iného webu alebo iného HTML dokumentu.
-	Administrátor - Osoba ktorá môže zasahovať do webu a databázy, upravovať aspravovať ich obsah.
+	Administrátor - Osoba ktorá môže zasahovať do webu a databázy, upravovať a spravovať ich obsah.
 
 1.4 Externé dokumenty
 
@@ -31,11 +31,11 @@ všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti syst�
 	JavaScript manuál http://www.w3schools.com/js/
 
 1.5 Prehľad dokumentu špecifikácie:
-Kapitola 2: Obsahuje všeobecný popis.
-       Podkapitola 2.1: Popisuje stručný prehľad webu.
-       Podkapitola 2.2: Popisuje funkcie webu.
-       Podkapitola 2.3: Popisuje užívateľské charakteristiky.
-       Podkapitola 2.4: Popisuje všeobecné obmedzenia.
-       Podkapitola 2.5: Popisuje predpoklady a závislosti.
-Kapitola 3: Obsahuje stručne spísané požiadavky zadávateľa. 
-Kapitola 4: Obsahuje prílohy.
+	Kapitola 2: Obsahuje všeobecný popis.
+      	  Podkapitola 2.1: Popisuje stručný prehľad webu.
+     	  Podkapitola 2.2: Popisuje funkcie webu.
+     	  Podkapitola 2.3: Popisuje užívateľské charakteristiky.
+     	  Podkapitola 2.4: Popisuje všeobecné obmedzenia.
+     	  Podkapitola 2.5: Popisuje predpoklady a závislosti.
+	Kapitola 3: Obsahuje stručne spísané požiadavky zadávateľa. 
+	Kapitola 4: Obsahuje prílohy.
