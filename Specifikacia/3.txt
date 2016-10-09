@@ -1,23 +1,26 @@
 3. Stručne spísané požiadavky zadávateľa
-	Funkčné požiadavky
+	3.1Funkčné požiadavky
 	
-	3.1. Administrátor
+	3.1.1 Administrátor
 	
-	3.1.1 Tvorba rozhodcu
+	3.1.1.1 Tvorba rozhodcu
 	Možnosť registrácie ako rozhodca bude odstránená a namiesto toho ich bude vytvárať admin. 
 	
-	3.1.2 Aktívny rozhodcovia
+	3.1.1.2 Aktívny rozhodcovia
 	Administrátor získa schopnosť nastaviť rozhodcu aktívnym. Hodnotenia týchto rozhodcov sa budú rátať do výsledného hodnotenia aktuálneho ročníka. (13)
 	
-	3.1.3 Úprava užívateľského rozhrania pre administrátora
+	3.1.1.3 Úprava užívateľského rozhrania pre administrátora
 	Administrátor dostane správne zrátaný priemer z hodnotení rozhodcov. (14) Administrátor bude mať k dispozícii pri spájaní hodnotení rozhodcov praktické okienko, v ktorom bude spisovať finálne hodnotenie. (15)
 	
-	3.1.4 Úprava hodnotení
+	3.1.1.4 Úprava hodnotení
 	Hodnotenia sa zverejnia až po odsúhlasení administrátorom. Administrátor bude mať na zverejnenie výsledkov tlačidlo “Zverejniť hodnotenia“. (16) Pri editovaní hodnotenia pribudne administrátorovi tlačidlo na hodnotenie nasledujúceho tímu. (17)
 
-	3.2 Rozhodca
+	3.1.2 Rozhodca
 	
-	3.2.1  Úprava užívateľského rozhrania pre rozhodcu
+	3.1.2.1  Úprava užívateľského rozhrania pre rozhodcu
 	Nový vizuál pri hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú sa dať hodnotiť obe riešenia.
 
-	Ostatné požiadavky
+	3.2 Ostatné požiadavky
+	
+	3.2.1 Zmena URL konkrétnych riešení
+	URL adresa bude generovaná tak, aby súťažiace tímy nemohli uhádnuť súperovu URL. 
