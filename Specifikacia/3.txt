@@ -35,6 +35,5 @@
 	3.2.2 Riešnia odovzdané pred deadlinom
 	Odovzdané riešenia sa nedajú otvoriť pred deadlinom. (10)
 	
-	3.2.3
-	Rekonštruckia databázy
+	3.2.3 Rekonštruckia databázy
 	Pri pridávaní prvkov do databázy bude dôraz kladený na zachovanie logických vzťahov medzi prvkami databázy. Údaje z pôvodnej databázy ostanú zachované.
