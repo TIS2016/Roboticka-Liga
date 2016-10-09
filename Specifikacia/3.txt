@@ -18,7 +18,7 @@
 	3.1.2 Rozhodca
 	
 	3.1.2.1  Úprava užívateľského rozhrania pre rozhodcu
-	Nový vizuál pri hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú sa dať hodnotiť obe riešenia. (7)
+	Nový vizuál pri hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú sa dať hodnotiť obe riešenia. (17)
 	
 	3.1.3 Súťažiaci
 	
