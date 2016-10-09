@@ -1,9 +1,10 @@
-3. Struène spísané poiadavky zadávate¾a
-	Rozhodcu vytvára administrátor. Benı pouívate¾ tak stratí schopnos registrova sa ako rozhodca. (1)/*tie cisla potom zmazeme len aby sme vedeli coho sa to tyka */
-	Administrátor získa schopnos nastavi rozhodcu aktívnym. Hodnotenia tıchto rozhodcov sa budú ráta do vısledného hodnotenia aktuálneho roèníka. (13)
-	Administrátor dostane správne zrátanı priemer z hodnotení rozhodcov. (14)
-	Administrátor bude ma k dispozícii pri spájaní hodnotení rozhodcov praktické okienko, v ktorom bude spisova finálne hodnotenie. (15)
-	Hodnotenia sa zverejnia a po odsúhlasení administrátorom. Administrátor bude ma na zverejnenie vısledkov tlaèidlo “Zverejni hodnotenia“. (16)
-	Pri editovaní hodnotenia pribudne administrátorovi a rozhodcom tlaèidlo na hodnotenie nasledujúceho tímu. (17)
+3. StruÄne spÃ­sanÃ© poÅ¾iadavky zadÃ¡vateÄ¾a
+	3.1.1 AdministrÃ¡tor
+	Rozhodcu vytvÃ¡ra administrÃ¡tor. BeÅ¾nÃ½ pouÅ¾Ã­vateÄ¾ tak stratÃ­ schopnosÅ¥ registrovaÅ¥ sa ako rozhodca. (1)/*tie cisla potom zmazeme len aby sme vedeli coho sa to tyka */
+	AdministrÃ¡tor zÃ­ska schopnosÅ¥ nastaviÅ¥ rozhodcu aktÃ­vnym. Hodnotenia tÃ½chto rozhodcov sa budÃº rÃ¡taÅ¥ do vÃ½slednÃ©ho hodnotenia aktuÃ¡lneho roÄnÃ­ka. (13)
+	AdministrÃ¡tor dostane sprÃ¡vne zrÃ¡tanÃ½ priemer zÂ hodnotenÃ­ rozhodcov. (14)
+	AdministrÃ¡tor bude maÅ¥ kÂ dispozÃ­cii pri spÃ¡janÃ­ hodnotenÃ­ rozhodcov praktickÃ© okienko, vÂ ktorom bude spisovaÅ¥ finÃ¡lne hodnotenie. (15)
+	Hodnotenia sa zverejnia aÅ¾ po odsÃºhlasenÃ­ administrÃ¡torom. AdministrÃ¡tor bude maÅ¥ na zverejnenie vÃ½sledkov tlaÄidlo â€œZverejniÅ¥ hodnoteniaâ€œ. (16)
+	Pri editovanÃ­ hodnotenia pribudne administrÃ¡torovi tlaÄidlo na hodnotenie nasledujÃºceho tÃ­mu. (17)
 
 	
