@@ -2,7 +2,9 @@
 	3.1. Administrátor
 	
 	3.1.1 Tvorba rozhodcu
-	Rozhodcu vytvára administrátor. Bežný používateľ tak stratí schopnosť registrovať sa ako rozhodca. (1)/*tie cisla potom   zmazeme len aby sme vedeli coho sa to tyka */
+	Možnosť registrácie ako rozhodca bude odstránená a namiesto toho ich bude vytvárať admin. Nový vizuál pre rozhodcov vznikne pri
+	hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú
+	sa dať hodnotiť obe riešenia.
 	
 	3.1.2 Aktívny rozhodcovia
 	Administrátor získa schopnosť nastaviť rozhodcu aktívnym. Hodnotenia týchto rozhodcov sa budú rátať do výsledného hodnotenia aktuálneho ročníka. (13)
