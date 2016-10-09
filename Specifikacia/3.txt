@@ -26,8 +26,11 @@
 
 	3.2 Ostatné požiadavky
 	
-	3.2.1 Zmena URL konkrétnych riešení
+	3.2.1 URL konkrétnych riešení
 	URL riešeni bude zneprístupnené pre ostatné tími až do deadlinu na zadanie. (11)
 	
 	3.2.2 Neaktívne tímy 
 	Tímy ktoré ani raz nepošlú riešenie budú ozančené ako neaktívne. (6)
+	
+	3.2.2 Riešnia odovzdané pred deadlinom
+	Odovzdané riešenia sa nedajú otvoriť pred deadlinom. (10)
