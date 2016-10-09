@@ -46,3 +46,6 @@
 
 	3.2.6 Zobrazovanie menu v Iframe
 	Iframe bude nastavene na minmálnu fixnú výšku aby sa menu zobrazovalo vždy celé. (2)
+
+	3.2.7 Zmena zobrazovania
+	Zmeniť "zobraz zadanie" namiesto "zobraz riesenie"
