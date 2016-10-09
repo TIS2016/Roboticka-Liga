@@ -30,4 +30,4 @@
 	URL riešeni bude zneprístupnené pre ostatné tími až do deadlinu na zadanie. (11)
 	
 	3.2.2 Neaktívne tímy 
-	Tímy ktoré ani raz nepošlú riešenie budú ozančené ako neaktívne. 
+	Tímy ktoré ani raz nepošlú riešenie budú ozančené ako neaktívne. (6)
