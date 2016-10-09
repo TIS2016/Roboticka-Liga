@@ -1,5 +1,0 @@
-2.5 Projekt závisí od zvolenia/nezvolenia bakalárskej témy na prerobenie webu fll.sk. 
-V prípade zvolenia bude nevyhnutné spolupracovať s daným študentom. 
-Závislosti môžu vzniknúť pri prerábaní galérie v iFrame, ak to nebude technologicky možné treba nahradiť iFrame. 
-V prípade nahradenia iFrame treba znova prejsť požiadavky priamo závislé na iFrame ako sú úprava menu a prewiev zadania.
-
