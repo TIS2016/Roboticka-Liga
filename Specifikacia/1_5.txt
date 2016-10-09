@@ -1,12 +1,12 @@
-1.5 Preh¾ad dokumentu špecifikácie:
-Kapitola 2: Obsahuje všeobecnı popis.
-       Podkapitola 2.1: Popisuje struènı preh¾ad webu.
+1.5 PrehÄ¾ad dokumentu Å¡pecifikÃ¡cie:
+Kapitola 2: Obsahuje vÅ¡eobecnÃ½ popis.
+       Podkapitola 2.1: Popisuje struÄnÃ½ prehÄ¾ad webu.
        Podkapitola 2.2: Popisuje funkcie webu.
-       Podkapitola 2.3: Popisuje uívate¾ské charakteristiky.
-       Podkapitola 2.4 Popisuje všeobecné obmedzenia.
-       Podkapitola 2.5 Popisuje predpoklady a závislosti.
-Kapitola 3: Obsahuje struène spísané poiadavky zadávate¾a. 
-Kapitola 4: Obsahuje prílohy.
+       Podkapitola 2.3: Popisuje uÅ¾Ã­vateÄ¾skÃ© charakteristiky.
+       Podkapitola 2.4: Popisuje vÅ¡eobecnÃ© obmedzenia.
+       Podkapitola 2.5: Popisuje predpoklady aÂ zÃ¡vislosti.
+Kapitola 3: Obsahuje struÄne spÃ­sanÃ© poÅ¾iadavky zadÃ¡vateÄ¾a. 
+Kapitola 4: Obsahuje prÃ­lohy.
 
 
 
