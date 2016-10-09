@@ -22,4 +22,21 @@ Plánované zmeny sa týkajú aj samotných tímov. Admin bude mať možnosť oz
 po dlhšej dobe nečinnosti daného tímu. Každý tím tiež dostane možnosť formátovania obsahu, ktorý účastníci pridajú do systému ako riešenie
 zadania. Na stránke riešení tímov bude zneprístupnený vstup pre iných participantov ligy až do konca deadlinu.
 
+2.3 Úlohou state je definovať používateľské role. Systém počíta s hlavnými používateľmi, a teda z tímov, rozhodcami, adminom, neparticipujúcim užívateľom. 
+
+Tím
+Tím, teda aktívne participujúci užívateľ, sa musí registrovať do systému, aby dostal povolenie súťažiť. Tím je zložený zo študentov vo veku 10-16 rokov. 
+
+Rozhodca
+Rozhodca je registrovaný a vyberaný administrátorom. Jeho úlohou je vyhodnocovatie riešenia zadaní. Je oboznámený s pravidlami súťaže a na ich základe spravodlivo rozhoduje. 
+
+Administrátor
+Úlohu administrátora je spravovať systém, rozhodovať o aktívnych účastníkoch, zadávať úlohy a reagovať na komentáre od rozhodcov. 
+
+Neparticipujúci užívteľ
+Je to ktorýkoľvek návštevník stránky, ktorý sa aktívne nezapája do robotickej ligy. 
+
+2.4 Je nevyhnutné spomenúť, že projekt sa snaží vylepšiť už existujúci systému, čím je práca obmedzujúca. Za obmedzenie sa môže považovať integrovanie systému do portálu www.fll.sk. 
+
+
 
