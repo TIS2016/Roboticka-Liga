@@ -2,9 +2,7 @@
 	3.1. Administrátor
 	
 	3.1.1 Tvorba rozhodcu
-	Možnosť registrácie ako rozhodca bude odstránená a namiesto toho ich bude vytvárať admin. Nový vizuál pre rozhodcov vznikne pri
-	hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú
-	sa dať hodnotiť obe riešenia.
+	Možnosť registrácie ako rozhodca bude odstránená a namiesto toho ich bude vytvárať admin. 
 	
 	3.1.2 Aktívny rozhodcovia
 	Administrátor získa schopnosť nastaviť rozhodcu aktívnym. Hodnotenia týchto rozhodcov sa budú rátať do výsledného hodnotenia aktuálneho ročníka. (13)
@@ -15,4 +13,7 @@
 	3.1.4 Úprava hodnotení
 	Hodnotenia sa zverejnia až po odsúhlasení administrátorom. Administrátor bude mať na zverejnenie výsledkov tlačidlo “Zverejniť hodnotenia“. (16) Pri editovaní hodnotenia pribudne administrátorovi tlačidlo na hodnotenie nasledujúceho tímu. (17)
 
+	3.2 Rozhodca
 	
+	3.2.1  Úprava užívateľského rozhrania pre administrátora
+	Nový vizuál pri hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú sa dať hodnotiť obe riešenia.
