@@ -44,8 +44,8 @@
 	3.2.5 Oprava náhľadu pre vytvárané zadanie
 	Pri návrate z náhľadu sa v pôvodnom systéme zduplikujú odoslané údaje. Nežiadané duplikovanie bude odstránené. (4)
 	
-	3.2.6 Úprava podstránky pre zverejnené zadania
-	V prípade, ak nie sú zverejnené žiadne zadania určené na riešenie, stránka je vizuálne neprehľadná. (3)
+	3.2.6 3.2.4 Úprava podstránky pre zverejnené zadania
+	V prípade, ak nie sú zverejnené žiadne zadania určené na riešenie, stránka bude vizuálne a obsahovo prehľadná. (3)
 
 	3.2.7 Zobrazovanie menu v Iframe
 	Iframe bude nastavene na minmálnu fixnú výšku aby sa menu zobrazovalo vždy celé. (2)
