@@ -27,7 +27,7 @@
 	3.2 Ostatné požiadavky
 	
 	3.2.1 Zmena URL konkrétnych riešení
-	URL adresa bude generovaná tak, aby súťažiace tímy nemohli uhádnuť súperovu URL. (11)
+	URL riešeni bude zneprístupnené pre ostatné tími až do deadlinu na zadanie. (11)
 	
 	3.2.2 Neaktívne tímy 
 	Tímy ktoré ani raz nepošlú riešenie budú ozančené ako neaktívne. 
