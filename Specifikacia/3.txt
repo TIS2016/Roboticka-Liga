@@ -1,0 +1,9 @@
+3. Struène spísané poiadavky zadávate¾a
+	Rozhodcu vytvára administrátor. Benı pouívate¾ tak stratí schopnos registrova sa ako rozhodca. (1)/*tie cisla potom zmazeme len aby sme vedeli coho sa to tyka */
+	Administrátor získa schopnos nastavi rozhodcu aktívnym. Hodnotenia tıchto rozhodcov sa budú ráta do vısledného hodnotenia aktuálneho roèníka. (13)
+	Administrátor dostane správne zrátanı priemer z hodnotení rozhodcov. (14)
+	Administrátor bude ma k dispozícii pri spájaní hodnotení rozhodcov praktické okienko, v ktorom bude spisova finálne hodnotenie. (15)
+	Hodnotenia sa zverejnia a po odsúhlasení administrátorom. Administrátor bude ma na zverejnenie vısledkov tlaèidlo “Zverejni hodnotenia“. (16)
+	Pri editovaní hodnotenia pribudne administrátorovi a rozhodcom tlaèidlo na hodnotenie nasledujúceho tímu. (17)
+
+	
