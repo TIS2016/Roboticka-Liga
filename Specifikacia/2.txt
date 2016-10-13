@@ -44,9 +44,8 @@ Je to ktorýkoľvek návštevník stránky, ktorý sa aktívne nezapája do robo
 2.4 Je nevyhnutné spomenúť, že projekt sa snaží vylepšiť už existujúci systému, čím je práca obmedzujúca. Za obmedzenie sa môže
 považovať integrovanie systému do portálu www.fll.sk. 
 
-2.5 Projekt závisí od zvolenia/nezvolenia bakalárskej témy na prerobenie webu fll.sk. 
-V prípade zvolenia bude nevyhnutné spolupracovať s daným študentom. 
+2.5 Projekt závisí od spolupráce so študentom, ktorý si ako bakalársku tému zvolil prerobenie webu fll.sk. 
 Závislosti môžu vzniknúť pri prerábaní galérie v iFrame, ak to nebude technologicky možné treba nahradiť iFrame. 
 V prípade nahradenia iFrame treba znova prejsť požiadavky priamo závislé na iFrame ako sú úprava menu a prewiev zadania.
-Spustenie projektu si vyžaduje webový prehliadač. Porozumenie stránke, znalosť anglického alebo slovenského jazyka.
+Spustenie projektu si vyžaduje webový prehliadač. Porozumenie stránke vyžaduje znalosť anglického alebo slovenského jazyka.
 
