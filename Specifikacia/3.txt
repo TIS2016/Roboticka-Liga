@@ -4,16 +4,22 @@
 	3.1.1 Administrátor
 	
 	3.1.1.1 Tvorba rozhodcu
-	Možnosť registrácie ako rozhodca bude odstránená a namiesto toho ich bude vytvárať admin. 
+	Rozhodcov bude vytvárať administrátor. Možnosť registrácie rozhodcu bude odstránená. 
 	
-	3.1.1.2 Aktívny rozhodcovia
-	Administrátor získa schopnosť nastaviť rozhodcu aktívnym. Hodnotenia týchto rozhodcov sa budú rátať do výsledného hodnotenia aktuálneho ročníka. (13)
+	3.1.1.2 Aktívni rozhodcovia
+	Administrátor získa schopnosť nastaviť rozhodcu aktívnym. Hodnotenia týchto rozhodcov sa budú rátať do výsledného hodnotenia aktuálneho kola. (13)
 	
 	3.1.1.3 Úprava užívateľského rozhrania pre administrátora
-	Administrátor dostane správne zrátaný priemer z hodnotení rozhodcov. (14) Administrátor bude mať k dispozícii pri spájaní hodnotení rozhodcov praktické okienko, v ktorom bude spisovať finálne hodnotenie. (15)
+	Administrátor dostane správne zrátaný priemer z hodnotení rozhodcov. (14) Administrátor bude mať k dispozícii pri spájaní hodnotení rozhodcov praktické okienko, v ktorom bude spisovať finálne hodnotenie. (15) Pri editovaní hodnotenia pribudne administrátorovi tlačidlo na hodnotenie nasledujúceho tímu. (17)
 	
 	3.1.1.4 Úprava hodnotení
-	Hodnotenia sa zverejnia až po odsúhlasení administrátorom. Administrátor bude mať na zverejnenie výsledkov tlačidlo “Zverejniť hodnotenia“. (16) Pri editovaní hodnotenia pribudne administrátorovi tlačidlo na hodnotenie nasledujúceho tímu. (17) Administrátor bude mať možnosť editovať expirované zadania. (5)
+	Hodnotenia sa zverejnia až po odsúhlasení administrátorom. Administrátor bude mať na zverejnenie výsledkov tlačidlo “Zverejniť hodnotenia“. (16) 
+	
+	3.1.1.5 Expirované zadania
+	Administrátor bude mať možnosť editovať expirované zadania. (5)
+	
+	3.1.1.6 Neaktívne tímy
+	Administrátor získa prehľad o neaktívnych tímoch. Bude mať k dispozícii tlačidlo vymazať tím. Neaktívny tím je tím, ktorý aktuálnu sezónu neodoslal žiadne riešenie. 6
 
 	3.1.2 Rozhodca
 	
@@ -28,9 +34,6 @@
 	
 	3.2.1 URL konkrétnych riešení
 	URL riešeni bude zneprístupnené pre ostatné tími až do deadlinu na zadanie. (11)
-	
-	3.2.2 Neaktívne tímy 
-	Tímy ktoré ani raz nepošlú riešenie budú ozančené ako neaktívne. (6)
 	
 	3.2.2 Riešenia odovzdané pred deadlinom
 	Odovzdané riešenia sa nedajú otvoriť pred deadlinom. (10)
