@@ -31,11 +31,6 @@ všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti syst�
 	JavaScript manuál http://www.w3schools.com/js/
 
 1.5 Prehľad dokumentu špecifikácie:
-	Kapitola 2: Obsahuje všeobecný popis.
-      	  Podkapitola 2.1: Popisuje stručný prehľad webu.
-     	  Podkapitola 2.2: Popisuje funkcie webu.
-     	  Podkapitola 2.3: Popisuje užívateľské charakteristiky.
-     	  Podkapitola 2.4: Popisuje všeobecné obmedzenia.
-     	  Podkapitola 2.5: Popisuje predpoklady a závislosti.
-	Kapitola 3: Obsahuje stručne spísané požiadavky zadávateľa. 
-	Kapitola 4: Obsahuje prílohy.
+	Dokument sa skladá z dvoch hlavných častí. Stať 2.0 ponúka celkový opis systému, jeho funkcie, triedy používateľov, 
+všeobecné podmienky a obmedzenia ako aj rôzne predpoklady a závislosti systému.  Druhá časť vysvetľuje dokument čitateľovi 
+špecifikácie požiadaviek z hľadiska funkčnosti a ostatných požiadaviek, kam patria úvodná stránka, registračné formuláre a databázy.
