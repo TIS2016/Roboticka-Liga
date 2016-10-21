@@ -1,13 +1,22 @@
 ﻿7.10.2016
 Prítomní: Foltýn,Hlatky,Vakerman,Kunovská
+
 Zhrnutie:
+
 1. Menenie zadaných bodov zo špecifikácie. 
    Foltýn: 1.5,2.5
    Hlatky: 1.2, 1.3, 1.4
    Vakerman: 1.1, 2.3, 2.4
    Kunovská: 2.1, 2.2
+   
 2. Riešenie sekundárného serveru so zadávateľom aby sme mohli začať testovať.
-3. Rozdelenie úloh pri riešení 4 diagramov rovnakým štýlom, že každý sa zapojí do vytvárania všetkých, t.j. nie tak, že každý spraví jeden.
+
+3. Rozdelenie úloh pri riešení 4 diagramov rovnakým štýlom, že každý sa zapojí
+do vytvárania všetkých, t.j. nie tak, že každý spraví jeden.
+
 4. Opravenie pridaného .pdf na github (vyexportovaný ganttov diagram nie tabuľka). 
+
 5. Doplnili sme issues na entitno-relačný, use-case, stavový a sekvenčný diagram.
-6. Prebrali sme ako by sme spolupracovali so študentom, ktorý by si vybral ako bakalársku tému prerobenie fll.sk.
+
+6. Prebrali sme ako by sme spolupracovali so študentom, ktorý by si vybral ako bakalársku 
+tému prerobenie fll.sk.
