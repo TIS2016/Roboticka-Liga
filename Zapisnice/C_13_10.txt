@@ -1,0 +1,61 @@
+13.10.2016 štvrtok o 11:50
+
+Na stretnutí sme sa zišli všetci štyria.
+
+Musime sa stretnuť s chalanom kt robi redesign...
+
+musime zjednotiť design
+
+Predebatovať odstranenie Ifremu
+
+1.1 napísať na koniec uvodu od „Dokument a... “ do 1.5 napísať tam pre koho je to určene
+
+
+1.2 Treba napísať rozvinutím vetami
+
+
+dopísať čo už povodna aplikacia už ma zahrnute čo existuje, a čo nevyhovuje a treba zmeniť.
+
+
+1.3 vyrušovalo ho administrator
+
+pridať
+ročník, jedno kolo, program riešenia je program kt. subor kt sa da otvoriť v programe a nahrať robota. na stanku sa odovzdava spackovane.
+
+ev3 nema zmysel zipovať.
+
+zmeniť tiny alebo aj nie...
+
+
+prepisať 2.1
+
+zučasnenia sa robotickej ligy.
+slovo tak je tam navyše
+
+
+Sú dve ulohy a robiť možu obe
+povinne a nepobvinne body, to sa bude priemerovať.
+
+
+2.2 hlavny fokus sa mu nepačil.
+
+dodržať proporcionalitu odstavcov.
+zle sa to čita
+
+2.3 treba dodržať rod a pád.
+
+existuju 4 uživatelske role: .... a vypísať
+
+mohlo by sa objaviť že za ten team nahravaju učasnik alebo trener.
+
+doplniť aj rozhodca vie navrhnúť  úlohu a admin.
+
+
+V 3. treba zadať všetko.
+
+aktívny rozhodca, hrúbka
+
+
+Rekonštrukcia databázy  sa netýka funkcionality, ostatne nej.
+
+Poživatelske rozhranie upraviť. Zlepšiť to
