@@ -1,0 +1,17 @@
+.nav * {margin:0; padding:0; outline:0}
+.nav {background:#ff6600;; z-index:1000}
+.menu a {display: block; top: 0; color:#fff; text-decoration:none; width:100px; padding-top:8px; padding-bottom: 13px}
+.menu span {display: block; color:#fff; text-decoration:none; width:100px; padding-top:8px; padding-bottom: 13px}
+.menu a:hover {color:#fff; background:#b84a00}
+.menu {list-style:none; font:16px Arial,Verdana; font-weight:bold; text-align:center}
+.menu li {position:relative; width:100px; z-index:1000; display: inline-block; margin-right: -5px; left: -2px }
+.menu ul {display:none; position:absolute; font:normal 13px Arial,Verdana; top:36px; left:0; background:#ff6600; display:none; list-style:none; overflow:auto}
+.menu ul li {float:none; border-top:1px solid #fff; width:100px}
+.menu ul li a, li.menuhover li a, li.menuhover li.menuhover li a {float:none; display:block; background:none; padding-top:5px; padding-bottom: 5px}
+.menu ul li a:hover, li.menuhover li a:hover, li.menuhover li.menuhover li a:hover {background:#b84a00; color:#fff}
+.menu ul li span, li.menuhover li span, li.menuhover li.menuhover li span {float:none; display:block; background:none; padding-top:5px; padding-bottom: 5px}
+.menu ul ul {left:100px; top:0}
+.menu li.noborder {border-top:none}
+li.menuhover a, li.menuhover li.menuhover a, li.menuhover {color:#fff; background:#b84a00}
+li.menuhover span, li.menuhover li.menuhover span {color:#fff; background:#ff6600}
+.menu a span {display: inline !important;}

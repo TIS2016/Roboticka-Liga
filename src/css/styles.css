@@ -1,0 +1,181 @@
+@charset "utf-8";
+
+* {
+	border: 0;
+	outline: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#333;
+	font-size:13px;
+	line-height:1.2;
+}
+
+body {
+	margin: 0;
+	padding: 0;	
+	width:100%;
+}
+
+ol, ul {
+	margin: 0;
+}
+
+a { 
+	color: #ff6600;
+	text-decoration:none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #007cdf;
+	text-decoration: none;
+}
+
+p, .result-table {
+	margin-bottom: 1em;
+	clear: both;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #ffffff;
+	background:#ff6600;
+	/* background:#b01515; */
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align:center;
+	
+}
+
+h2, h2 span {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ff6600;
+  margin-bottom: 1.5em;
+  font-weight: bold;
+}
+
+h3, h3 span {
+	font-size: 15px;
+	font-weight: bold;
+	color: #3399ff;
+	margin-bottom: 1em;
+}
+
+h4, h4 span {
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+	margin-bottom: 0.5em;
+}
+
+h5, h5 span {
+	font-size: 13px;
+	font-weight: bold;
+	font-style: italic;
+	color: #333333;
+	margin-bottom: 0;
+}
+
+input, button, textarea {
+	border:1px solid #999999;
+}
+
+/* ******************* */
+
+.float-left {
+	position: relative;
+	float: left;
+}
+
+#content {
+	position: relative;
+	float: left;
+	padding-left: 10%;
+	width: 80%; 
+	margin-top: 20px;
+}
+
+#wrapper {
+	position: absolute;
+	float: left;
+	left: 0;
+	right: 0;
+}
+
+#logout_butt, #pridaj_zadanie {
+	padding-top: 10px;
+}
+
+#logout_butt a, #pridaj_zadanie a {
+	color: #007cdf !important;
+}
+
+#logout_butt a:hover, #pridaj_zadanie a:hover {
+	text-decoration: underline;
+}
+
+#vitaj {
+	margin-bottom: 10px;
+}
+
+#riesenia {
+	margin-bottom: 10px;
+}
+
+#login-form, #logout-form {
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+	padding-right: 10%;	
+}
+
+table {
+	border: 2px solid black;
+}
+
+.result-table td, .result-table th {
+	border: 1px solid black;
+}
+
+.result-table {
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+}
+.result-table td, .result-table th {
+	padding: 5px;
+}
+
+.result-table th a, .result-table th span {
+	color: black;
+}
+
+.result-table th a, .result-table th span , .result-table td a, .result-table td span {
+	display: block;
+	margin: -5px;
+	padding: 5px;
+}
+
+.jury-img {
+	text-align: center;
+	display: inline-block;
+}
+
+.center, #error-message, #success-message {
+	text-align: center;
+}
+
+[data-trans-lang] {
+	display: none;
+}
+
+#error-message *{
+	color: red;
+}
+
+#success-message *{
+	color: green;
+}
