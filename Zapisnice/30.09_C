@@ -1,0 +1,28 @@
+
+
+30.09.2016
+
+Pritomni: Kunovska,Vakerman
+
+1. Prvé cvičenie bolo opravené.Treba rozdeliť úlohy pre tým. Prečítať všetko s webu.
+   Ti, ktori su pritomni su zato zodpovedni.
+
+2. Doplnit Ganttov diagram:
+	-percenta splnenia uloh
+	-závislosti
+
+3. naplanovane stretnutia s cviciacim v piatok o 11.30
+
+4. Bol vytvoreny novy repozitar kde do master branchu nemozme pullovat hned 
+   ale musime spravit novy branch kde to musi niekto skontrolovat a potom to mozme mergnut do masteru.
+   Kazdy musi potvrdit na emaily join.
+
+7. ulohy: 
+	-https://github.com/Chaos-TIS/letna-liga/raw/master/Z%C3%A1vere%C4%8Dn%C3%A1%20spr%C3%A1va.pdf 
+	 kazdy precitat a vygenerovat otazky, ktore k tomu ma.
+	-ten co sleduje konkretnu robotu musi mat prehlad dopredu o danej robote co sa ma vykonat 
+	-stiahnut zedhub doplnok na github.(vyuzivat) 
+	 backlog-akceptovane/treba riesit,new issue - napad,
+	 in progress - niekto to ma nastarosti a uz to riesi
+	 review - ohodnotenie/ pozretie tymom, icebox - neskor
+	-o vsetkom co robime ma byt issue

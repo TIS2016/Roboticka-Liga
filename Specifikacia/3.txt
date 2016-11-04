@@ -1,0 +1,57 @@
+3. Stručne spísané požiadavky zadávateľa
+	3.1Funkčné požiadavky
+	
+	3.1.1 Administrátor
+	
+	3.1.1.1 Tvorba rozhodcu
+	Rozhodcov bude vytvárať administrátor. Možnosť registrácie rozhodcu bude odstránená. 
+	
+	3.1.1.2 Aktívni rozhodcovia
+	Administrátor získa schopnosť nastaviť rozhodcu aktívnym. Hodnotenia týchto rozhodcov sa budú rátať do výsledného hodnotenia aktuálneho kola. (13)
+	
+	3.1.1.3 Úprava užívateľského rozhrania pre administrátora
+	Administrátor dostane správne zrátaný priemer z hodnotení rozhodcov. (14) Administrátor bude mať k dispozícii pri spájaní hodnotení rozhodcov praktické okienko, v ktorom bude spisovať finálne hodnotenie. (15) Pri editovaní hodnotenia pribudne administrátorovi tlačidlo na hodnotenie nasledujúceho tímu. (17)
+	
+	3.1.1.4 Úprava hodnotení
+	Hodnotenia sa zverejnia až po odsúhlasení administrátorom. Administrátor bude mať na zverejnenie výsledkov tlačidlo “Zverejniť hodnotenia“. (16) 
+	
+	3.1.1.5 Expirované zadania
+	Administrátor bude mať možnosť editovať expirované zadania. (5)
+	
+	3.1.1.6 Neaktívne tímy
+	Administrátor získa prehľad o neaktívnych tímoch. Bude mať k dispozícii tlačidlo vymazať tím. Neaktívny tím je tím, ktorý aktuálnu sezónu neodoslal žiadne riešenie. 6
+
+	3.1.2 Rozhodca
+	
+	3.1.2.1  Úprava užívateľského rozhrania pre rozhodcu
+	Nový vizuál pri hodnotení tímov kedy po ohodnotení tímu môže rozhodca prejsť hneď na ďalší tím.  Pri hodnotení pribudne možnosť „neriešil“ a budú sa dať hodnotiť obe riešenia. (17)
+	
+	3.1.3 Súťažiaci
+	
+	3.1.3.1 Súťažiaci budú mať pri editovaní riešenia k dispozícii wysiwyg editor, tlačidlá na pomoc pri formátovaní. (7)
+
+	3.2 Ostatné požiadavky
+	
+	3.2.1 URL konkrétnych riešení
+	URL riešeni bude zneprístupnené pre ostatné tími až do deadlinu na zadanie. (11)
+	
+	3.2.2 Riešenia odovzdané pred deadlinom
+	Odovzdané riešenia sa nedajú otvoriť pred deadlinom. (10)
+	
+	3.2.3 Rekonštruckia databázy
+	Pri pridávaní prvkov do databázy bude dôraz kladený na zachovanie logických vzťahov medzi prvkami databázy. Údaje z pôvodnej 		databázy ostanú zachované.
+	
+	3.2.4 Zadanie a riešenie v nadranemon okne
+	Pri zadaniach a riešeniach bude možnosť ich otvoriť v nadradenom okne. (8)
+	
+	3.2.5 Oprava náhľadu pre vytvárané zadanie
+	Pri návrate z náhľadu sa v pôvodnom systéme zduplikujú odoslané údaje. Nežiadané duplikovanie bude odstránené. (4)
+	
+	3.2.6 Úprava podstránky pre zverejnené zadania
+	V prípade, ak nie sú zverejnené žiadne zadania určené na riešenie, stránka bude vizuálne a obsahovo prehľadná. (3)
+
+	3.2.7 Zobrazovanie menu v Iframe
+	Iframe bude nastavene na minmálnu fixnú výšku aby sa menu zobrazovalo vždy celé. (2)
+
+	3.2.8 Zmena zobrazovania
+	Zmeniť "zobraz zadanie" namiesto "zobraz riesenie" (9)

@@ -1,0 +1,40 @@
+7.10.2016
+Prítomní: Foltýn,Hlatky,Vakerman,Kunovská
+Zhrnutie:
+Evka spravila z ganttovho diagramu časť návrh a má nastarosti manažmet externej a internej komunikácie. Viliam spravil časť
+implementácie a má nastarosti dokumentáciu. Jonatan spravil s ganttovho diagramu špecifikáciu, a ma nastarosti manažment práce. Peter
+urobil štvrtú časť ganttovho diagramu a ma nastarosti implementáciu.
+
+- Treba vyexportovať ganttov diagram a dať na github
+- Napísať zadávateľovi aby vytvoril vetvu na serveri.	
+
+Z cvičiacim sme dohodli detaily špecifikácie:
+
+1.1 kapitola úvodná, na čo je určený pre koho čo v ňom je.
+
+1.2  2-3 vety rozsah čo do toho patrí a nepatrí.
+
+1.3 Skratky pojmy
+ -ročník, kolo zadanie používateľ, súťažný tím.
+ -napr Tim ma názov kt sa nemení, svoje údaje sa zadávajú len raz.
+ -(fotka tímu, vyzvať ak nemajú)
+
+1.5 Prehlaď dokumentu
+
+2. popísať ľudským jazykom aby ho pochopil aj laik.
+ -perspektíva prehľad funkcii
+
+3. Všetky požiadavky  každá 2-3 vetami
+ - členene do skupín
+ - hodnotenie
+ - požiadavky
+
+Malo by to byť nezávisle od kódu.. Zadávateľ chce funkcie
+
+Budúci týždeň
+	entitno-relačny diagram (rozhodcovia sú entiti zadanie aj hodnotenie)
+	stavový diagram (životný cyklus ako prebieha, pasívny)
+	use case
+- Zadávateľom schválene zmeny napr. zmeny v databáze aké moduly sa budú robiť, čo sa mení.
+	aké technológie sa bude meniť.
+
