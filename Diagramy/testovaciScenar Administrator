@@ -1,0 +1,47 @@
+Administrátor
+1.1 Vstup: Administrátor vyberie možnosť Zadania/Všetky zadania
+Výstup:  Zobrazí  sa  najprv  zoznam  zverejnených  zadaní  a  pod  tým 
+nezverejnené  zadania  s  možnosťou  výberu.  Pod  tým  bude  možnosť 
+zverejnenia úlohy.   
+1.2  Vstup:  Administrátor jedno  nezverejnené  zadanie  zo  zoznamu  zadaní  z 
+1.1, vyberie dátumy v kalendári a klikne na tlačidlo zverejniť
+Výstup:  Vybranému  zadaniu  sa  pridelí  deadline.  Ak  dátum  od  je  po 
+dátume prezerania stránky zadanie sa zobrazí v zozname zverejnených 
+zadaní.   
+1.3  Vstup:  Administrátor vyberie možnosť Zadania/Všetky zadania a klikne na 
+jedno zo zverejnených zadaní
+Výstup: Zobrazí sa vybrané zadanie pod ním sa zobrazí tabuľka, ktorej 
+riadky  reprezentujú  súťažné  tímy  a  stĺpce  rozhodcovia.  Hodnoty  v 
+bunkách  tabuľky  obsahujú  text  buď  hodnotené  alebo  nehodnotené, 
+podľa  toho,  či  príslušný  rozhodca  ohodnotil  riešenie  príslušného 
+súťažného  tímu.  Pod  tým  sa  zobrazia  dátumové  komponenty,  ktoré 
+môžeme  upraviť,  po  ich  odoslaní  sa  upraví  deadline  zobrazeného 
+zadania  a  otvorí  stránka  Zadania/Všetky  zadania.  Pod  tým  sa  ešte 
+nachádza tlačidlo Najzaujímavejšie riešenie. Administrátor bude mať možnosť editovať expirované zadania
+1.4  Vstup:  Administrátor vyberie  možnosť  Zadania/Všetky  zadania/  klikne  na 
+jedno zo zverejnených zadaní a klikne na jeden súťažný tím
+Výstup:  Zobrazí  sa  riešenie  vybraného  súťažného  tímu  pre  vybrané 
+zadanie. Podľa hodnôt v príslušnom riadku tabuľky z 1.3 sa zobrazia 
+komentáre rozhodcov. V spodnej časti administrátor môže pridať 
+komentár  vytvorený  z  komentárov  rozhodcov.  Po  odoslaní  sa  tento 
+komentár  bude  zobrazovať  pri  prezeraní  tohto  riešenia  všetkým 
+užívateľom.   
+1.5 Vstup: Kliknutie na tlačidlo Najzaujímavejšie riešenie z 1.3
+Výstup:  Zobrazí  sa  zoznam  súťažných  tímov  pre  Open  league  aj 
+Slovak  league   možnosťou  výberu  a  tlačidlo  odoslať.  Po  vybraní 
+jedného  najzaujímavejšieho  riešenia  pre  danú  ligu  a  odoslaní  sa  tieto 
+tímy zvýraznia v tabuľke výsledkov pre príslušné súťažné kolo   
+1.6 Vstup: Užívateľ vyberie možnosť Používateľské účty
+Výstup:  Zobrazí  sa  zoznam  všetkých  používateľov  vedľa  každého 
+názvu bude tlačidlo Odstrániť. Bude mať k dispozícii tlačidlo na zaregistrovanie rozhodcu. Pri používateľskom účte rozhodcu, bude mať tlačidlo aktivuj/deaktivuj, ktoré aktivuje neaktívnych rozhodcov a deaktivuje aktívnych rozhodcov.
+1.7 Vstup: Kliknutie na názov používateľského účtu v zozname z 1.6
+Výstup:  Zobrazí  sa  registračný  formulár  vyplnený  hodnotami  podľa 
+informácií o používateľskom účte, ktorý je možné upravovať    
+1.8  Vstup:  Užívateľ  klikne  na  tlačidlo  Odstrániť  pri  vybranom  mene 
+užívateľa
+Výstup:  Zobrazí  sa  otázka  Naozaj  chcete  odstrániť účet?.  Po  kliknutí 
+na  tlačidlo  áno  sa  vybraný  účet  zmaže  a  zmizne  zo  zoznamu 
+používateľských účtov. Po kliknutí na tlačidlo nie ostane obsah stránky 
+nezmenený.
+1.9 Vstup: Administrátor klikne na tlačidlo Zverejniť hodnotenia.
+Výstup: Zobrazí sa zoznam hodnotení k aktuálnemu zadaniu, každé bude defaultne označené a zobrazí sa tlačidlo Zverejniť označené. Po ktorom sa administrátorovi zobrazí text, hodnotenia boli úspešne zverejnené. 
